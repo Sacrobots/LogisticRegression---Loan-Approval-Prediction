@@ -1,0 +1,18 @@
+Link: https://www.geeksforgeeks.org/understanding-logistic-regression/
+
+Loan Prediction: -
+
+Learning outcomes: 
+
+-> Pulling data from csv files using pandas library
+
+-> Data preprocessing: Understanding how to import and clean datasets, 
+handle missing values and encode categorical variables 
+
+-> Exploratory Data Analysis EDA: Knowledge of analyzing datasets using Python libraries to find out relationships
+ between the features and target variable 
+
+-> Model selection: Use Logistic regression model to define if the person is applicable for getting loan or not. 
+
+-> Model performance evaluation: Use different evaluation metrics to check the model performance and 
+optimize it for better results [ Accuracy & F1_Score ]
